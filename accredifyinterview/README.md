@@ -59,3 +59,11 @@ The project includes a test suite to ensure its functionality.
 
     ```shell 
     php artisan test
+
+
+## Documentation
+
+The API documentation and diagram is included in the link below: 
+
+https://sugar-top-07d.notion.site/Accredify-Test-0732ece855be4a9b81d40cf697def381
+

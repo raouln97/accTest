@@ -58,7 +58,6 @@ class verifyDoc extends Controller
             $data['issued']    
         );
     }catch(\Exception $e){
-        echo $e;
         throw new \Exception('JSON input has invalid fields');
     }
 
