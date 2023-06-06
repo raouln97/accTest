@@ -59,5 +59,3 @@ The project includes a test suite to ensure its functionality.
 
     ```shell 
     php artisan test
-
-
