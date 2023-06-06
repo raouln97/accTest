@@ -1,6 +1,6 @@
 # Laravel Project
 
-This repository contains a Laravel project that showcases ACCTEST. The project was done a job interview.
+This repository contains a Laravel project that showcases ACCTEST. The project was done for a job interview.
 
 ## Prerequisites
 
