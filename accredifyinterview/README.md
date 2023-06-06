@@ -55,8 +55,6 @@ To install and set up the project, follow these steps:
 
 The project includes a test suite to ensure its functionality. To run the tests, use the following command:
 
--
-    ```shell
-    php artisan test
+```shell php artisan test
 
 
