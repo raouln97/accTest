@@ -21,20 +21,24 @@ To install and set up the project, follow these steps:
 
 2. Navigate to the project directory:
     
+    ```shell
     cd [project-directory]
 
 3. Install PHP dependencies:
 
+    ```shell
     composer install
 
 4. Create a copy of the .env.example file and name it .env. Update the file with your database credentials.
 
 5. Generate an application key:
 
+    ```shell
     php artisan key:generate
 
 6. Run database migrations and seeders:
 
+    ```shell
     php artisan migrate --seed
 
 
@@ -42,6 +46,7 @@ To install and set up the project, follow these steps:
 
 1. Start the Laravel development server:
 
+    ```shell
     php artisan serve
 
 2. Access the application in your web browser at http://localhost:8000.
@@ -51,6 +56,7 @@ To install and set up the project, follow these steps:
 
 The project includes a test suite to ensure its functionality. To run the tests, use the following command:
 
+    ```shell
     php artisan test
 
 
