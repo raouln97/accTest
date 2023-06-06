@@ -41,7 +41,6 @@ To install and set up the project, follow these steps:
     ```shell
     php artisan migrate --seed
 
-
 ## Usage
 
 1. Start the Laravel development server:
@@ -56,6 +55,7 @@ To install and set up the project, follow these steps:
 
 The project includes a test suite to ensure its functionality. To run the tests, use the following command:
 
+-
     ```shell
     php artisan test
 
